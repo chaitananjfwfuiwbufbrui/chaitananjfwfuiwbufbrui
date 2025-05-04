@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chaitananjfwfuiwbufbrui
 - 👀 I’m interested in webdevlopment and AI
-- 🌱 I’m currently learning flutter, solidity 
+- 🌱 I’m currently learning React js 
 - 💞️ I’m looking to collaborate on open source projects related to AI and web3
 - 📫 How to reach me 
 
