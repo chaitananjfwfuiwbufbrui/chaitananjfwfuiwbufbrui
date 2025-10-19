@@ -23,7 +23,7 @@
 |----------|--------------|------|
 | **HIRE AI** | AI-powered hiring platform that helps recruiters screen and assess candidates efficiently using NLP & LLMs. | [🔗 Visit App](https://main.d3r5nh3ds41tf9.amplifyapp.com/) |
 | **AI Learning Assistant** | Smart e-learning platform integrating LLMs for adaptive learning, spaced repetition, and progress tracking. | [🔗 Coming Soon](#) |
-| **NodeFlow Finance** | Node-based financial workflow engine integrating stock APIs, LLM predictions, and trade automation. | [🔗 Coming Soon](#) |
+| **NodeFlow Finance** | Node-based financial workflow engine integrating stock APIs, LLM predictions, and trade automation. | [repo](https://github.com/chaitananjfwfuiwbufbrui/backend_comfyui) |
 
 ---
 
